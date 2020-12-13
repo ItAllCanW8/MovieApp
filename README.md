@@ -1,6 +1,6 @@
 # MovieApp
 
-https://www.themoviedb.org/ API
+https://www.themoviedb.org/documentation/api API
 
 * MVVM
 * Retrofit
